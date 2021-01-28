@@ -1,2 +1,2 @@
 # Blog-django
-Prjeto de estudos do framework Django
+Projeto de estudos do framework Django
